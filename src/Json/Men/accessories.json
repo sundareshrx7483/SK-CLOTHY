@@ -1,0 +1,39 @@
+[
+    {
+      "pid": "1",
+      "pname": "Watch",
+      "image": "https://img.freepik.com/free-photo/close-up-male-hand-pocket-with-modern-elegant-wristwatch_1262-16910.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1350 "
+    },
+    {
+      "pid": "2",
+      "pname": "Belt",
+      "image": "https://img.freepik.com/premium-photo/unrecognizable-young-man-with-brown-belt_684041-33.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "250 "
+    },
+    {
+      "pid": "3",
+      "pname": "Bracelet",
+      "image": "https://img.freepik.com/premium-photo/hand-holding-silver-bracelet_1046681-3459.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybridd",
+      "price": "1550"
+    },
+    {
+      "pid": "4",
+      "pname": "Chain",
+      "image": "https://img.freepik.com/free-photo/young-man-wearing-chain-necklace_23-2149490507.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1375"
+    },
+    {
+      "pid": "5",
+      "pname": "Cooler",
+      "image": "https://img.freepik.com/premium-photo/male-accessories-gadgets-wooden-table_35378-60.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "400"
+    },
+    {
+      "pid": "6",
+      "pname": "Purse",
+      "image": "https://img.freepik.com/premium-photo/green-wallet-table_221128-5228.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "450"
+    }
+  ]
+  

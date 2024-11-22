@@ -1,0 +1,39 @@
+[
+    {
+      "pid": "1",
+      "pname": "Hoodie1",
+      "image": "https://img.freepik.com/free-photo/front-view-man-sweatshirt_23-2148542696.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "350 "
+    },
+    {
+      "pid": "2",
+      "pname": "Hoodie2",
+      "image": "https://img.freepik.com/free-photo/front-view-modern-boy-with-copy-space_23-2148423109.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "250 "
+    },
+    {
+      "pid": "3",
+      "pname": "Hoodie3",
+      "image": "https://img.freepik.com/free-photo/handsome-attractive-european-man-gray-hoodie-with-hands-pockets-look-pleased-has-good-mood-as-comes-home-after-work-good-looking-male-student-poses_176420-13438.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "550"
+    },
+    {
+      "pid": "4",
+      "pname": "Hoodie4",
+      "image": "https://img.freepik.com/free-photo/handsome-confident-hipster-modelsexy-unshaven-man-dressed-summer-stylish-green-hoodie-jeans-clothes-fashion-male-with-curly-hairstyle-posing-studio-isolated-blue_158538-26584.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "375"
+    },
+    {
+      "pid": "5",
+      "pname": "Hoodie5",
+      "image": "https://img.freepik.com/free-photo/portrait-handsome-confident-model-sexy-stylish-man-dressed-yellow-hoodie-with-no-logo-clothes-branding-mockup-design-template-casual-sportswear-fashion-male-isolated-studio_158538-23468.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977",
+      "price": "400"
+    },
+    {
+      "pid": "6",
+      "pname": "Hoodie6",
+      "image": "https://img.freepik.com/premium-photo/young-caucasian-man-white-confused-feels-doubtful-unsure_1187-104810.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977",
+      "price": "450"
+    }
+  ]
+  

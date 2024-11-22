@@ -1,0 +1,39 @@
+[
+    {
+      "pid": "1",
+      "pname": "Jacket1",
+      "image": "https://img.freepik.com/premium-photo/arabian-handsome-man-wall-looking-side-smiling_1368-97372.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "350 "
+    },
+    {
+      "pid": "2",
+      "pname": "Jacket2",
+      "image": "https://img.freepik.com/premium-photo/young-hispanic-man-wearing-leather-jacket-confused-feels-doubtful-unsure_1187-28217.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "250 "
+    },
+    {
+      "pid": "3",
+      "pname": "Jacket3",
+      "image": "https://img.freepik.com/free-photo/portrait-stylish-arab-beard-man-wear-grey-turtleneck-black-jaket-arabian-model-guy_627829-4314.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "550"
+    },
+    {
+      "pid": "4",
+      "pname": "Jacket4",
+      "image": "https://img.freepik.com/free-photo/man-with-bag-outside_1303-5833.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "375"
+    },
+    {
+      "pid": "5",
+      "pname": "Jacket5",
+      "image": "https://img.freepik.com/free-photo/man-jacket-outside_1303-5834.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "400"
+    },
+    {
+      "pid": "6",
+      "pname": "Jacket6",
+      "image": "https://img.freepik.com/free-photo/young-man-posing-with-copy-space_23-2148422206.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "450"
+    }
+  ]
+  

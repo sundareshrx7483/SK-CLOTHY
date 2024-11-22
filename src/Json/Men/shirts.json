@@ -1,0 +1,39 @@
+[
+    {
+      "pid": "1",
+      "pname": "Shirt1",
+      "image": "https://img.freepik.com/premium-photo/young-handsome-man-leaning-gray-wall_1016700-3452.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "650 "
+    },
+    {
+      "pid": "2",
+      "pname": "Shirt2",
+      "image": "https://img.freepik.com/free-photo/portrait-handsome-confident-model-sexy-stylish-man-dressed-white-shirt-jeans-fashion-hipster-male-posing-near-blue-wall-studio-isolated-sunglasses_158538-23649.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "400 "
+    },
+    {
+      "pid": "3",
+      "pname": "Shirt3",
+      "image": "https://img.freepik.com/free-photo/smiling-man-wearing-sunglasses_171337-14990.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "550"
+    },
+    {
+      "pid": "4",
+      "pname": "Shirt4",
+      "image": "https://img.freepik.com/premium-photo/portrait-handsome-smiling-hipster-lumbersexual-businessman-model-wearing-casual-jeans-shirt-clothes_158538-17414.jpg?w=826",
+      "price": "475"
+    },
+    {
+      "pid": "5",
+      "pname": "Shirt5",
+      "image": "https://img.freepik.com/free-photo/man-striped-shirt-looks-confused-thoughtful_144627-69818.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "700"
+    },
+    {
+      "pid": "6",
+      "pname": "Shirt6",
+      "image": "https://img.freepik.com/free-photo/handsome-serious-man-dressed-shirt-posing_171337-10513.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "650"
+    }
+  ]
+  
