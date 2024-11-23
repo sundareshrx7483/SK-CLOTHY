@@ -16,6 +16,8 @@ import Nav from "./Pages/Nav";
 import Shirts from "./Pages/Mens/Shirts";
 import Jackets from "./Pages/Mens/Jackets"
 import Accessories from "./Pages/Mens/Accessories"
+import Hoodies from './Pages/Mens/Hoodies.jsx'
+import Blazzers from "./Pages/Mens/Blazzers.jsx";
 const App = () => {
   return (
     <div id="App">
@@ -27,7 +29,9 @@ const App = () => {
           <Route path="/men/tshirts" element={<Tshirts />}></Route>
           <Route path="/men/shirts" element={<Shirts/>}></Route>
           <Route path="/men/jackets" element={<Jackets />}></Route>
-          <Route path="/men/accessories" element={<Accessories/>}></Route>
+          <Route path="/men/hoodies" element={<Hoodies/>}></Route>
+          <Route path="/men/accessories" element={<Accessories />}></Route>
+          <Route path="/men/blazzers" element={<Blazzers/>}></Route>
           <Route path="/women" element={<Women />}></Route>
           <Route path="/kids" element={<Kids />}></Route>
           <Route path="/sports" element={<Sports/>}></Route>

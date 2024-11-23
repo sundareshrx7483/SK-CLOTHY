@@ -21,6 +21,7 @@ const Men = () => {
         </div>
         <div class="div3">
           <img src={hoodies} alt="" />
+          <Link to="/men/hoodies"></Link>
           HOODIES
         </div>
         <div class="div5">
@@ -33,7 +34,8 @@ const Men = () => {
         </div>
         <div class="div7">
           <img src={blazzers} alt="" />
-          BLAZZERS
+          <Link to="/men/blazzers">BLAZZERS</Link>
+        
         </div>
       </div>
     </div>

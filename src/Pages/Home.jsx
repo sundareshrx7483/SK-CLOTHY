@@ -21,7 +21,21 @@ const Home = () => {
 
         <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
           <img
+            src="src\assets\images\Home\firstmine.jpeg"
+            alt="Men Fashion"
+            className="object-cover w-full h-full"
+          />
+        </div>
+        <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
+          <img
             src="src/assets/images/Home/wp3646113-men-fashion-wallpapers.jpg"
+            alt="Men Fashion"
+            className="object-cover w-full h-full"
+          />
+        </div>
+        <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
+          <img
+            src="src\assets\images\Home\second.jpeg"
             alt="Men Fashion"
             className="object-cover w-full h-full"
           />
@@ -34,10 +48,25 @@ const Home = () => {
             className="object-cover w-full h-full"
           />
         </div>
+        <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
+          <img
+            src="src\assets\images\Home\third.jpeg"
+            alt="Men and Women Fashion"
+            className="object-cover w-full h-full"
+          />
+        </div>
 
         <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
           <img
             src="src/assets/images/Home/img1.jpg"
+            alt="Fashion Image 1"
+            className="object-cover w-full h-full"
+          />
+        </div>
+
+        <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
+          <img
+            src="src\assets\images\Home\fourth.jpeg"
             alt="Fashion Image 1"
             className="object-cover w-full h-full"
           />

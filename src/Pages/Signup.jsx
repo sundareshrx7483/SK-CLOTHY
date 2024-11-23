@@ -24,7 +24,7 @@ const Signup = () => {
   // };
 
   const submit = async (e) => {
-    e.preventDefault(); // Prevent form refresh
+    // e.preventDefault(); 
  
 
     const { username, emailId, password, cpassword } = userDetails;
@@ -52,7 +52,7 @@ const Signup = () => {
       
   }
    
-
+navigate("/sigin")
    
 
 
@@ -62,7 +62,7 @@ const Signup = () => {
     <div id="signup">
       <div className="signup-container">
         <h1 className="signup-header">Sign Up</h1>
-        <form onSubmit={submit}>
+        <form onSubmit={submit} method="get">
           <label htmlFor="username" className="signup-label">
             Username
           </label>
