@@ -2,7 +2,7 @@ import React from "react";
 import "../CSS/men.css";
 import shirtImg from "../assets/images/Men/shirt.jpg";
 import tshirts from "../assets/images/Men/man-wearing-t-shirt-gesturing.jpg";
-import hoodies from "../assets/images/Men/hoodie.webp";
+import hoodies from "../assets/images/Men/hoodie1.jpg";
 import jackets from "../assets/images/Men/jacket.jpg";
 import accessories from "../assets/images/Men/accessories.jpg";
 import blazzers from "../assets/images/Men/suit.jpg";
@@ -20,7 +20,7 @@ const Men = () => {
           <Link to="/men/tshirts"> TSHIRTS</Link>
         </div>
         <div class="div3">
-          <img src="src\assets\images\Men\hoodie1.jpg" alt="" />
+          <img src={hoodies} alt="" />
           HOODIES
         </div>
         <div class="div5">
