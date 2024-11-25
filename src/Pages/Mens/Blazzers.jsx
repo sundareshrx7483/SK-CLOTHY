@@ -1,5 +1,5 @@
 import React from "react";
-import '../../CSS/Mens/Accessories.css'
+import '../../CSS/Mens/Blazzers.css'
 import BlazzersJson from "../../Json/Men/blazzers.json";
 import { useDispatch } from "react-redux";
 import { addToCart } from "../../SLICES/cartSlice";
