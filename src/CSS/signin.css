@@ -1,0 +1,151 @@
+/* Main Container */
+#signinmain {
+  font-family: "Arial", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #ffffff; /* Background changed to white */
+  margin: 0;
+}
+
+/* Sign-In Form Container */
+#signin {
+  background: #ffffff;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 400px;
+  animation: fadeIn 0.8s ease-in-out;
+}
+
+/* Header */
+.signin-header {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+  animation: slideDown 0.8s ease-in-out;
+}
+
+/* Label */
+.signin-label {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 8px;
+  display: block;
+}
+
+/* Input Fields */
+.signin-input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+}
+
+.signin-input:focus {
+  border-color: #74ebd5;
+  box-shadow: 0 0 8px rgba(116, 235, 213, 0.6);
+  outline: none;
+  transform: scale(1.02);
+}
+
+/* Forgot Password Link */
+.forgot-link {
+  font-size: 0.9rem;
+  color: #74ebd5;
+  text-align: right;
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.forgot-link:hover {
+  color: #54c8c5;
+}
+
+/* Login Button */
+.signin-btn {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  background-color: #74ebd5;
+  color: #ffffff;
+  font-size: 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.signin-btn:hover {
+  background-color: #54c8c5;
+  transform: scale(1.05);
+}
+
+/* Divider Section */
+.signin-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.line {
+  flex: 1;
+  height: 1px;
+  background-color: #ddd;
+}
+
+.hr-content {
+  margin: 0 10px;
+  font-size: 0.9rem;
+  color: #555;
+  font-weight: bold;
+}
+
+/* Signup Link */
+#signuplink a {
+  display: block;
+  margin-top: 15px;
+  font-size: 1rem;
+  color: #74ebd5;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+#signuplink a:hover {
+  color: #54c8c5;
+  transform: scale(1.1);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-15px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}

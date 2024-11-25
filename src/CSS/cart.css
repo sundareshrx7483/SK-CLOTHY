@@ -1,0 +1,100 @@
+
+.cart-container {
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 1s ease-in-out;
+  max-width: 600px;
+}
+
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 15px;
+  transform-origin: top;
+  animation: scaleIn 0.5s ease forwards;
+  opacity: 0; 
+}
+
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+@keyframes scaleIn {
+  from {
+    transform: scale(0.9);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  to {
+    transform: scale(0.8);
+    opacity: 0;
+  }
+}
+
+.cart-item.removing {
+  animation: fadeOut 0.4s ease forwards;
+}
+
+.empty-cart-message {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #888;
+}
+
+.remove-button,
+.buy-button {
+  background-color: #ff4d4f;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.buy-button {
+  background-color: #4caf50;
+  margin-left: 10px;
+}
+
+.remove-button:hover,
+.buy-button:hover {
+  background-color: #e63946;
+  transform: scale(1.1);
+}
+
+.item-name,
+.item-price {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.button-container {
+  display: flex;
+  gap: 10px;
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "pid": "1",
+    "pname": "Tshirt1",
+    "image": "https://img.freepik.com/free-photo/man-making-thumb-down-hand-sign_144627-48513.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+    "price": "350 "
+  },
+  {
+    "pid": "2",
+    "pname": "Tshirt2",
+    "image": "https://img.freepik.com/free-photo/stylish-casual-indian-man-wear-blue-tshirt-posing-against-grey-wall_627829-4727.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+    "price": "250 "
+  },
+  {
+    "pid": "3",
+    "pname": "Tshirt3",
+    "image": "https://img.freepik.com/free-photo/portrait-handsome-confident-stylish-hipster-lambersexual-modelman-dressed-size-tshirt-jeans-fashion-male-isolated-studio-posing-near-blue-wall_158538-26344.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+    "price": "550"
+  },
+  {
+    "pid": "4",
+    "pname": "Tshirt4",
+    "image": "https://img.freepik.com/free-photo/good-looking-confident-young-man-red-t-shirt_176420-24297.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+    "price": "375"
+  },
+  {
+    "pid": "5",
+    "pname": "Tshirt5",
+    "image": "https://img.freepik.com/free-photo/man-black-shirt-pointing-something-introducing-someone_144627-52574.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+    "price": "400"
+  },
+  {
+    "pid": "6",
+    "pname": "Tshirt6",
+    "image": "https://img.freepik.com/premium-photo/portrait-handsome-confident-stylish-hipster-lambersexual-modelman-dressed-tshirt-jeans-fashion-male-isolated-blue-wall-studio_158538-24554.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+    "price": "450"
+  }
+]
