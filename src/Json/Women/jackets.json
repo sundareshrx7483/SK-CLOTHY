@@ -1,0 +1,38 @@
+[
+    {
+      "pid": "1",
+      "pname": "Jacket1",
+      "image": "https://img.freepik.com/free-photo/expressive-young-woman-posing_176474-102021.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1450 "
+    },
+    {
+      "pid": "2",
+      "pname": "Jacket2",
+      "image": "https://img.freepik.com/free-photo/woman-model-demonstrating-winter-cloths_1303-16967.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1500 "
+    },
+    {
+      "pid": "3",
+      "pname": "Jacket3",
+      "image": "https://img.freepik.com/free-photo/photo-woman-looking-away-black-leather-jacket-cap_114579-59398.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1550"
+    },
+    {
+      "pid": "4",
+      "pname": "Jacket4",
+      "image": "https://img.freepik.com/free-photo/woman-by-building-new-year-mood-lady-black-jacket_1157-40732.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1475"
+    },
+    {
+      "pid": "5",
+      "pname": "Jacket5",
+      "image": "https://img.freepik.com/premium-photo/pretty-young-girl-burgundy-hat-with-feather-scarf-background-sunny-autumn-park-copyspace_255755-2282.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "2400"
+    },
+    {
+      "pid": "6",
+      "pname": "Jacket6",
+      "image": "https://img.freepik.com/free-photo/woman-model-demonstrating-winter-cloths_1303-16964.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1450"
+    }
+]

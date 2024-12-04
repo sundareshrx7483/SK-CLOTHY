@@ -1,0 +1,39 @@
+[
+    {
+      "pid": "1",
+      "pname": "Kpop1",
+      "image": "https://img.freepik.com/premium-photo/young-fashionable-cute-carefree-asian-woman-wearing-headphone-roller-skate-with-perfect-slim-body-pointing-finger-mouth-isolated-blue-background-female-model-posing-indoors-studio_555986-2009.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "450 "
+    },
+    {
+      "pid": "2",
+      "pname": "Kpop2",
+      "image": "https://img.freepik.com/free-photo/two-beautiful-fashionable-young-european-female-friends-wearing-stylish-clothes-bright-make-up-spending-nice-time-together-looking-camera-with-happy-playful-facial-expressions-smiling_343059-2137.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "500 "
+    },
+    {
+      "pid": "3",
+      "pname": "Kpop3",
+      "image": "https://img.freepik.com/premium-photo/young-funny-housewife-checkered-shirt-yellow-shorts-pin-up-style-isolated_151355-3786.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "550"
+    },
+    {
+      "pid": "4",
+      "pname": "Kpop4",
+      "image": "https://img.freepik.com/free-photo/pretty-young-female-model-with-satisfied-expression-keeps-arms-folded-chest-looks-positively-camera-wears-stylish-cap-jumper-skirt-has-two-pigtails-isolated-pink-studio-wall_273609-33051.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "475"
+    },
+    {
+      "pid": "5",
+      "pname": "Kpop5",
+      "image": "https://img.freepik.com/free-photo/charming-sensual-woman-listens-pleasant-melody-recalls-good-memories-nostalgic-music-keeps-eyes-shut-raises-hands_273609-42956.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "400"
+    },
+    {
+      "pid": "6",
+      "pname": "Kpop6",
+      "image": "https://img.freepik.com/free-photo/red-hair-girl-sport-outfits-looks-fun_114579-19320.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "450"
+    }
+  ]
+  

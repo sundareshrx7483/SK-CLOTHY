@@ -1,0 +1,39 @@
+[
+    {
+      "pid": "1",
+      "pname": "Kurti1",
+      "image": "https://img.freepik.com/free-photo/young-woman-beautiful-dress_1303-17512.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "450 "
+    },
+    {
+      "pid": "2",
+      "pname": "Kurti2",
+      "image": "https://img.freepik.com/free-photo/young-woman-beautiful-yellow-dress_1303-17533.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "500 "
+    },
+    {
+      "pid": "3",
+      "pname": "Kurti3",
+      "image": "https://img.freepik.com/free-photo/girl-with-dazzling-smile-cute-mood-poses-photo-bright-warm-model-elegant-dress-puts-glasses_197531-12062.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "550"
+    },
+    {
+      "pid": "4",
+      "pname": "Kurti4",
+      "image": "https://img.freepik.com/premium-photo/young-indian-lady-wearing-yellow-traditional-dress-dancing-blue-background_116547-77558.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "475"
+    },
+    {
+      "pid": "5",
+      "pname": "Kurti5",
+      "image": "https://img.freepik.com/free-photo/brunette-indian-woman-long-fashionable-dress-posed-outdoor_627829-1784.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "400"
+    },
+    {
+      "pid": "6",
+      "pname": "Kurti6",
+      "image": "https://img.freepik.com/free-photo/woman-posing-wooden-door_1122-1175.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "450"
+    }
+  ]
+  

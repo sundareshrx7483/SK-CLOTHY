@@ -1,0 +1,38 @@
+[
+    {
+      "pid": "1",
+      "pname": "Formal1",
+      "image": "https://img.freepik.com/free-photo/front-view-cute-business-boy-blue-classic-suit-holding-black-folder-business-work-fashion_179666-1370.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1450 "
+    },
+    {
+      "pid": "2",
+      "pname": "Formal2",
+      "image": "https://img.freepik.com/premium-photo/teenage-depression-puberty-concept-sad-teenager-portrait-close-up-white-wall_230311-4698.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1500 "
+    },
+    {
+      "pid": "3",
+      "pname": "Formal3",
+      "image": "https://img.freepik.com/premium-photo/little-boy-posing-grey_156339-63.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1550"
+    },
+    {
+      "pid": "4",
+      "pname": "Formal4",
+      "image": "https://img.freepik.com/free-photo/little-girl-posing-school-s-uniform-white-studio-wall_155003-38311.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1475"
+    },
+    {
+      "pid": "5",
+      "pname": "Formal5",
+      "image": "https://img.freepik.com/free-photo/boy-girl-standing-pink_155003-41559.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "2400"
+    },
+    {
+      "pid": "6",
+      "pname": "Formal6",
+      "image": "https://img.freepik.com/premium-photo/fashionable-little-boystylish-kid_792372-1839.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1450"
+    }
+]

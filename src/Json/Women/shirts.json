@@ -1,0 +1,39 @@
+[
+    {
+      "pid": "1",
+      "pname": "shirt1",
+      "image": "https://img.freepik.com/free-photo/young-girl-model-standing-white-gray-wall_144627-63049.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "450 "
+    },
+    {
+      "pid": "2",
+      "pname": "shirt2",
+      "image": "https://img.freepik.com/free-photo/young-lady-clenching-fist-with-anger-while-looking-down-shirt-skirt-looking-offended-front-view_176474-91075.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "500 "
+    },
+    {
+      "pid": "3",
+      "pname": "shirt3",
+      "image": "https://img.freepik.com/free-photo/expressive-young-girl-posing_176474-97854.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "550"
+    },
+    {
+      "pid": "4",
+      "pname": "shirt4",
+      "image": "https://img.freepik.com/premium-photo/portrait-young-startup-business-woman-modern-office-grey-chalkboard-wall-background_530697-19447.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "475"
+    },
+    {
+      "pid": "5",
+      "pname": "shirt5",
+      "image": "https://img.freepik.com/free-photo/girl-white-shirt-standing-concrete-wall-showing-height-object_144627-71075.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "400"
+    },
+    {
+      "pid": "6",
+      "pname": "shirt6",
+      "image": "https://img.freepik.com/free-photo/portrait-young-beautiful-smiling-hipster-girl-trendy-summer-checkered-shirt-jeans-clothes-sexy-carefree-woman-posing-near-pink-wall-studio-positive-model-with-no-makeup_158538-3321.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "450"
+    }
+  ]
+  

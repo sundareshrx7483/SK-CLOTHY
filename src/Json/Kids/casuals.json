@@ -1,0 +1,38 @@
+[
+    {
+      "pid": "1",
+      "pname": "Casual1",
+      "image": "https://img.freepik.com/premium-photo/tshirt-mockup-138_1173594-880.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1450 "
+    },
+    {
+      "pid": "2",
+      "pname": "Casual2",
+      "image": "https://img.freepik.com/premium-photo/so-young-so-stylish-handsome-little-boy-hat-holding-hands-pockets-looking-camera-while-standing-against-grey-background_425904-23790.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1500 "
+    },
+    {
+      "pid": "3",
+      "pname": "Casual3",
+      "image": "https://img.freepik.com/premium-photo/fashion-boy-girl-stylish-clothes-colored-wall-b_86390-1599.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1550"
+    },
+    {
+      "pid": "4",
+      "pname": "Casual4",
+      "image": "https://img.freepik.com/premium-photo/fashion-model-kids_115919-23174.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1475"
+    },
+    {
+      "pid": "5",
+      "pname": "Casual5",
+      "image": "https://img.freepik.com/premium-photo/portrait-pretty-little-girl-blue-dress-yellow-hat_227201-94.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "2400"
+    },
+    {
+      "pid": "6",
+      "pname": "Casual6",
+      "image": "https://img.freepik.com/premium-photo/two-children-hugging-smiling_444642-242.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybridd",
+      "price": "1450"
+    }
+]

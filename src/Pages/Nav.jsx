@@ -15,7 +15,7 @@ import { FiUserPlus } from "react-icons/fi";
 
 const Nav = () => {
   return (
-    <div id="nav">
+    <div id="nav"  >
       <div id="mainHome">
         <div className="links">
           <Link id="link" to="/">

@@ -1,0 +1,39 @@
+[
+    {
+      "pid": "1",
+      "pname": "Tshirt1",
+      "image": "https://img.freepik.com/free-photo/smiling-litttle-boy-white-t-shirt-holding-skateboard-blue-wall_179666-769.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "350 "
+    },
+    {
+      "pid": "2",
+      "pname": "Tshirt2",
+      "image": "https://img.freepik.com/free-photo/girl-cap-standing-studio_23-2147825041.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "250 "
+    },
+    {
+      "pid": "3",
+      "pname": "Tshirt3",
+      "image": "https://img.freepik.com/free-photo/front-view-blonde-boy-blue-t-shirt-holding-little-green-plant-stone-colored-space_179666-1105.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "550"
+    },
+    {
+      "pid": "4",
+      "pname": "Tshirt4",
+      "image": "https://img.freepik.com/free-photo/beautiful-emotional-little-girl-isolated-red-studio_155003-24860.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "375"
+    },
+    {
+      "pid": "5",
+      "pname": "Tshirt5",
+      "image": "https://img.freepik.com/premium-photo/cute-girl-posing-camera-ukraine-europe_146671-11651.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "400"
+    },
+    {
+      "pid": "6",
+      "pname": "Tshirt6",
+      "image": "https://img.freepik.com/premium-photo/mexican-girl-pointing-herself-self-love-concept_79390-2213.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "450"
+    }
+  ]
+  

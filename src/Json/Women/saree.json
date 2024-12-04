@@ -1,0 +1,39 @@
+[
+    {
+      "pid": "1",
+      "pname": "saree1",
+      "image": "https://w0.peakpx.com/wallpaper/118/741/HD-wallpaper-priya-bhavani-shankar-sari-sleeve.jpg",
+      "price": "4500 "
+    },
+    {
+      "pid": "2",
+      "pname": "saree2",
+      "image": "https://www.moviespuzzle.com/wp-content/uploads/2024/05/trisha10.jpg",
+      "price": "5000 "
+    },
+    {
+      "pid": "3",
+      "pname": "saree3",
+      "image": "https://wallpapercave.com/wp/wp7043964.jpg",
+      "price": "5500"
+    },
+    {
+      "pid": "4",
+      "pname": "saree4",
+      "image": "https://wallpapers.com/images/high/samantha-yellow-saree-pink-flowers-mlwo5i7slxtkwzco.webp",
+      "price": "4705"
+    },
+    {
+      "pid": "5",
+      "pname": "saree5",
+      "image": "https://www.teluguone.com/photos/uploadsExt/uploads/Pooja%20Hegde/Actress%20Pooja%20Hegde%20Pics/Pooja_Hegde_New_Pictures1.jpg",
+      "price": "4000"
+    },
+    {
+      "pid": "6",
+      "pname": "saree6",
+      "image": "https://wallpapercave.com/wp/wp5325535.jpg",
+      "price": "4500"
+    }
+  ]
+  

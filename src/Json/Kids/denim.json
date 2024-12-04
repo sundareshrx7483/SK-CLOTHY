@@ -1,0 +1,38 @@
+[
+    {
+      "pid": "1",
+      "pname": "Denim1",
+      "image": "https://img.freepik.com/free-photo/full-length-portrait-cute-little-teen-stylish-jeans-clothes-smiling_155003-12194.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1450 "
+    },
+    {
+      "pid": "2",
+      "pname": "Denim2",
+      "image": "https://img.freepik.com/free-photo/portrait-cute-little-kid-boy-stylish-jeans-clothes-looking-camera-against-white-studio-wall_155003-13447.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1500 "
+    },
+    {
+      "pid": "3",
+      "pname": "Denim3",
+      "image": "https://img.freepik.com/free-photo/portrait-cute-little-teen-girl-stylish-jeans-clothes-looking-camera-smiling-against-white-studio-wall-kids-fashion-concept_155003-21553.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1550"
+    },
+    {
+      "pid": "4",
+      "pname": "Denim4",
+      "image": "https://img.freepik.com/premium-photo/portrait-stylish-child-smiling-little-boy-jeans_792372-376.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1475"
+    },
+    {
+      "pid": "5",
+      "pname": "Denim5",
+      "image": "https://img.freepik.com/free-photo/little-woman-t-shirt-denim-jacket-beanie-holding-hand-neck_176474-97305.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "2400"
+    },
+    {
+      "pid": "6",
+      "pname": "Denim6",
+      "image": "https://img.freepik.com/free-photo/portrait-cute-little-kid-boy-stylish-jeans-clothes-looking-camera-against-white-studio-wall-kids-fashion-concept_155003-21550.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1450"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+      "pid": "1",
+      "pname": "SweatShirt1",
+      "image": "https://img.freepik.com/free-photo/two-confused-little-redhead-children-wearing-warm-hats_171337-1656.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1450 "
+    },
+    {
+      "pid": "2",
+      "pname": "SweatShirt2",
+      "image": "https://img.freepik.com/premium-photo/funny-hipster-young-guy-teenager-fashion-red-panama-hat-yellow-sweatshirt-posing-isolated_78492-9518.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1500 "
+    },
+    {
+      "pid": "3",
+      "pname": "SweatShirt3",
+      "image": "https://img.freepik.com/premium-photo/little-turquoise-suit-poses-fools-around-turquoise-looks-camera_99433-5228.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1550"
+    },
+    {
+      "pid": "4",
+      "pname": "SweatShirt4",
+      "image": "https://img.freepik.com/premium-photo/portrait-tein-haired-girl-9-years-old-home-brown-sweater-looking-camera_1048944-27980809.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1475"
+    },
+    {
+      "pid": "5",
+      "pname": "https://img.freepik.com/free-photo/expressive-young-woman-posing_176474-101235.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "2400"
+    },
+    {
+      "pid": "6",
+      "pname": "SweatShirt6",
+      "image": "https://img.freepik.com/free-photo/joyful-attractive-lady-having-fun-while-pointing-up-with-both-index-fingers-isolated-pink_651396-3873.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1450"
+    }
+]

@@ -13,7 +13,7 @@ const Home = () => {
             <h1 className="mt-2 text-4xl font-bold md:text-6xl lg:text-8xl text-cyan-300">SKCLOTHY</h1>
           </div>
           <img
-            src="public\Home\wp6326224-mens-fashion-wallpapers.jpg"
+            src="\Home\wp6326224-mens-fashion-wallpapers.jpg"
             alt="Fashion"
             className="object-cover w-full h-full"
           />
@@ -21,21 +21,21 @@ const Home = () => {
 
         <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
           <img
-            src="public\Home\firstmine.jpeg"
+            src="\Home\firstmine.jpeg"
             alt="Men Fashion"
             className="object-cover w-full h-full"
           />
         </div>
         <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
           <img
-            src="public\Home\wp3646113-men-fashion-wallpapers.jpg"
+            src="\Home\wp3646113-men-fashion-wallpapers.jpg"
             alt="Men Fashion"
             className="object-cover w-full h-full"
           />
         </div>
         <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
           <img
-            src="public\Home\second.jpeg"
+            src="\Home\second.jpeg"
             alt="Men Fashion"
             className="object-cover w-full h-full"
           />
@@ -43,14 +43,14 @@ const Home = () => {
 
         <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
           <img
-            src="public\Home\wp5611603-men-and-women-fashion-models-wallpapers.jpg"
+            src="\Home\wp5611603-men-and-women-fashion-models-wallpapers.jpg"
             alt="Men and Women Fashion"
             className="object-cover w-full h-full"
           />
         </div>
         <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
           <img
-            src="public\Home\third.jpeg"
+            src="\Home\third.jpeg"
             alt="Men and Women Fashion"
             className="object-cover w-full h-full"
           />
@@ -58,7 +58,7 @@ const Home = () => {
 
         <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
           <img
-            src="public\Home\img1.jpg"
+            src="\Home\img1.jpg"
             alt="Fashion Image 1"
             className="object-cover w-full h-full"
           />
@@ -66,7 +66,7 @@ const Home = () => {
 
         <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
           <img
-            src="public\Home\fourth.jpeg"
+            src="\Home\fourth.jpeg"
             alt="Fashion Image 1"
             className="object-cover w-full h-full"
           />
@@ -74,7 +74,7 @@ const Home = () => {
 
         <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
           <img
-            src="public\Home\img2.jpg"
+            src="\Home\img2.jpg"
             alt="Fashion Image 2"
             className="object-cover w-full h-full"
           />
@@ -82,7 +82,7 @@ const Home = () => {
 
         <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
           <img
-            src="public\Home\img6.jpg"
+            src="\Home\img6.jpg"
             alt="Fashion Image 3"
             className="object-cover w-full h-full"
           />
@@ -90,7 +90,7 @@ const Home = () => {
 
         <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
           <img
-            src="public\Home\img3.jpg"
+            src="\Home\img3.jpg"
             alt="Fashion Image 4"
             className="object-cover w-full h-full"
           />
@@ -98,7 +98,7 @@ const Home = () => {
 
         <div className="relative flex items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
           <img
-            src="public\Home\img5.jpg"
+            src="\Home\img5.jpg"
             alt="Fashion Image 5"
             className="object-cover w-full h-full"
           />

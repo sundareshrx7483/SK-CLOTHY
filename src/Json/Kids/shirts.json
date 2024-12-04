@@ -1,0 +1,38 @@
+[
+    {
+      "pid": "1",
+      "pname": "shirt1",
+      "image": "https://img.freepik.com/free-photo/young-lady-showing-thumb-down-blue-shirt-hat-looking-displeased_176474-33377.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1450 "
+    },
+    {
+      "pid": "2",
+      "pname": "shirt2",
+      "image": "https://img.freepik.com/premium-photo/child-with-facial-expressions-studio-photo-red-background_496782-790.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1500 "
+    },
+    {
+      "pid": "3",
+      "pname": "shirt3",
+      "image": "https://img.freepik.com/premium-photo/little-boy-with-curly-hair-blue-shirt-shorts_88135-18926.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1550"
+    },
+    {
+      "pid": "4",
+      "pname": "shirt4",
+      "image": "https://img.freepik.com/premium-photo/handsome-boy-plaid-shirt-blue-shirt-jeans-stands-gray-background-boy-is-wearing-round-glasses-boy-smiles-pulls-his-shirt-away_88135-8955.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1475"
+    },
+    {
+      "pid": "5",
+      "pname": "shirt5",
+      "image": "https://img.freepik.com/premium-photo/pretty-little-girl-azure-coat-with-brunet-hair_88135-1615.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "2400"
+    },
+    {
+      "pid": "6",
+      "pname": "shirt6",
+      "image": "https://img.freepik.com/free-photo/children-expressions_23-2148010470.jpg?uid=R173846350&ga=GA1.1.188694809.1730956977&semt=ais_hybrid",
+      "price": "1450"
+    }
+]

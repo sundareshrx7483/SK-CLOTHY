@@ -18,6 +18,7 @@ const Cart = () => {
       ) : (
         cartItems.map((item, index) => (
           <div key={index} className="cart-item">
+            <img src={item.image} alt="" style={{height:"50px", width:"50px"}} />
             <h3 className="item-name">{item.pname}</h3>
             <h3 className="item-price">₹{item.price}</h3>
             <button className="remove-button" onClick={() => handleRemoveItem(index)}>
